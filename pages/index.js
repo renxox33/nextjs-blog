@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm Raj, an extremely powerful full-stack developer.</p>
+        <p>Hi babygirl ! ❤️</p>
         <p>
           { !data ? 'Loading...' : parseData(data) }
         </p>
